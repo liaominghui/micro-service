@@ -17,7 +17,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-@ComponentScan("com.lmh.item.itemclient")
+@ComponentScan("com.lmh")
 public class WebApplication {
 
     public static void main(String[] args) {

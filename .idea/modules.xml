@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-sever/eureka-sever.iml" filepath="$PROJECT_DIR$/eureka-sever/eureka-sever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-service/item-service.iml" filepath="$PROJECT_DIR$/item-service/item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmh-web/lmh-web.iml" filepath="$PROJECT_DIR$/lmh-web/lmh-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service.iml" filepath="$PROJECT_DIR$/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
