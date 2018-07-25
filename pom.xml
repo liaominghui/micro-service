@@ -12,7 +12,13 @@
         <module>eureka-sever</module>
         <module>item-service</module>
         <module>order-service</module>
+        <module>lmh-web</module>
     </modules>
 
-
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.2.RELEASE</version>
+        <relativePath/>
+    </parent>
 </project>

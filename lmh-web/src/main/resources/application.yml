@@ -1,0 +1,16 @@
+spring:
+  application:
+    name:  item-web #服务名称
+
+server:
+  port: 8313 #端口号
+
+logging:
+  level: info
+  file: d:\\item-service.log
+
+eureka:
+  client:
+    service-url:
+     defaultZone: http://127.0.0.1:8311/eureka/
+

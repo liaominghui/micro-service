@@ -8,8 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-sever" />
         <module name="item-service" />
+        <module name="lmh-web" />
         <module name="order-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-sever" target="1.7" />
+      <module name="item-service" target="1.6" />
+      <module name="lmh-web" target="1.7" />
+      <module name="micro-service" target="1.6" />
+      <module name="order-service" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
